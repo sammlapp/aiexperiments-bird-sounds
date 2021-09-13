@@ -1,6 +1,8 @@
 ## Bird Sounds
 Thousands of bird sounds, visualized using machine learning.
 
+The goal of this fork is to use or take inspiration from the google creative lab project to create a music-making tool using bird sounds. 
+
 ## About
 
 Bird sounds vary widely. This experiment uses machine learning to organize thousands of bird sounds. The computer wasn’t given tags or the birds’ names – only the audio. Using a technique called t-SNE, the computer created this map, where similar sounds are placed closer together.
